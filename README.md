@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakesh-kumar-s
 - 👀 I’m interested in  Programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/rakesh-kumar-883860288
 - 😄 Pronouns: ...
